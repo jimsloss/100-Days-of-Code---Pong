@@ -1,4 +1,4 @@
-# 100-Days-of-Code---Pong
+# 100-Days-of-Code---PONG..in PYTHON
 Udemy 100 Days of Code Bootcamp Project
 
 Each day in the 100 days course is taking me at least 3 days, but cementing what I already know and building on that. Learning a lot!
